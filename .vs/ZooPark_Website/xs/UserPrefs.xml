@@ -8,9 +8,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="ZooPark_Website" expanded="True">
+          <Node name="ZooPark_Website" expanded="True" selected="True">
             <Node name="ZooPark_Website" expanded="True">
-              <Node name="ZooPark_Website.csproj" selected="True" />
+              <Node name="bin" expanded="True" />
+              <Node name="obj" expanded="True" />
             </Node>
           </Node>
         </State>
