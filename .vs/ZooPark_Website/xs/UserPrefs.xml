@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{04EC82E3-FAC4-45B0-982B-0CB57E47C96B}|Default">
   <MonoDevelop.Ide.ItemProperties.ZooPark__Website PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ZooPark_Website/ZooPark_Website.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooPark_Website/bin/Test-poc-1/T4Template.tt">
     <Files>
-      <File FileName="ZooPark_Website/ZooPark_Website.csproj" Line="1" Column="1" />
+      <File FileName="ZooPark_Website/ZooPark_Website.csproj" Line="19" Column="1" />
+      <File FileName="ZooPark_Website/bin/Test-poc-1/T4Template.tt" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="ZooPark_Website" expanded="True" selected="True">
+          <Node name="ZooPark_Website" expanded="True">
             <Node name="ZooPark_Website" expanded="True">
-              <Node name="bin" expanded="True" />
-              <Node name="obj" expanded="True" />
+              <Node name="bin" expanded="True">
+                <Node name="Test-poc-1" expanded="True">
+                  <Node name="T4Template.tt" expanded="True" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

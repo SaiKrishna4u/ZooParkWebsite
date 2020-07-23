@@ -4,4 +4,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="bin\Test-poc-1\T4Template.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>T4Template.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bin\Test-poc-1\T4Template.cs">
+      <DependentUpon>T4Template.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
